@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10077" started-at="2016-08-02T07:18:56Z" finished-at="2016-08-02T07:19:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10077" started-at="2016-08-02T07:18:56Z" finished-at="2016-08-02T07:19:06Z">
+      <class name="TestScript.TestRegister">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestScript.TestRegister@264f218]" name="beforeTest" is-config="true" duration-ms="4279" started-at="2016-08-02T14:18:56Z" finished-at="2016-08-02T14:19:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="DataDriven_Register()[pri:0, instance:TestScript.TestRegister@264f218]" name="DataDriven_Register" duration-ms="4683" started-at="2016-08-02T14:19:01Z" finished-at="2016-08-02T14:19:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataDriven_Register -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestScript.TestRegister@264f218]" name="afterTest" is-config="true" duration-ms="1090" started-at="2016-08-02T14:19:05Z" finished-at="2016-08-02T14:19:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestScript.TestRegister -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

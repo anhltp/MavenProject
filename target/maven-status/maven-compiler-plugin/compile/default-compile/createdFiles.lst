@@ -1,0 +1,6 @@
+Common\Constant.class
+TestScript\TestLoginLogout.class
+TestScript\TestRegister.class
+Common\ExcelUtils.class
+Common\Register.class
+Common\LoginLogout.class
